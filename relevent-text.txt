@@ -1,0 +1,43 @@
+OPENING SLIDES
+1-
+2-
+3-
+4-
+
+QUICK ABOUT
+header-
+body-
+
+I am a current junior at Tufts University majoring in Computer Science with a minor in Mixed Media Arts. I enjoy sailing, photography, and web design in my free time. I am a member of the Tufts Varsity Sailing Team and enjoy both sailing for the womens team, as well as managing the teams web and facebook pages.
+
+ABOUT ME
+header-
+body-
+thing1-
+thing2-
+thing3-
+
+QUOTE
+quote-
+
+SKILLS
+subcategory1- Relevent Courses 
+blurb-
+skill1-
+skill2-
+skill3-
+skill4-
+subcategory2- technologies & skills
+blurb-
+skill1-
+skill2-
+skill3-
+skill4-
+
+WORK
+Marketing Intern, ICONICS Inc. -- May 2014 to August 2014
+Headed the overhaul of the company website; responsible for new, responsive design and revised asthetic
+Senior Sailing Instructor, Edgartown Yacht Club -- June 2013 to August 2013
+Primary 'Skipper II' instructor and assistant '420 Race' instructor; responsible for developing and leading sailing lessons, helped maintain and repair boats
+Senior Sailing Instructor, Hull Yacht Club -- June 2012 to August 2012
+Primary 'Race Team' and 'Learn to Sail' coach, assisting with other classes; responsible for developing lesson plans and overseeing classes, traveling to major race team events when necessary
